@@ -1,0 +1,31 @@
+#How to run code
+
+python main.py --nodisaster 'R' --trust 'R' --social_net 'R' --government 'R' --local_news 'R' --print_news 'R' --news 'R'
+python main.py --disaster 'R' --trust 'R' --social_net 'R' --government 'R' --local_news 'R' --print_news 'R' --news 'R'
+
+python main.py --disaster 'S' --trust 'S' --social_net 'S' --government 'S' --local_news 'S' --print_news 'S' --news 'S'
+python main.py --nodisaster 'S' --trust 'S' --social_net 'S' --government 'S' --local_news 'S' --print_news 'S' --news 'S'
+
+python main.py --disaster 'U' --trust 'U' --social_net 'U' --government 'U' --local_news 'U' --print_news 'U' --news 'U'
+python main.py --nodisaster 'U' --trust 'U' --social_net 'U' --government 'U' --local_news 'U' --print_news 'U' --news 'U'
+
+python main.py --disaster 'RS' --trust 'RS' --social_net 'RS' --government 'RS' --local_news 'RS' --print_news 'RS' --news 'RS'
+python main.py --nodisaster 'RS' --trust 'RS' --social_net 'RS' --government 'RS' --local_news 'RS' --print_news 'RS' --news 'RS'
+
+python main.py --disaster 'RU' --trust 'RU' --social_net 'RU' --government 'RU' --local_news 'RU' --print_news 'RU' --news 'RU'
+python main.py --nodisaster 'RU' --trust 'RU' --social_net 'RU' --government 'RU' --local_news 'RU' --print_news 'RU' --news 'RU'
+
+python main.py --disaster 'RR' --trust 'RR' --social_net 'RR' --government 'RR' --local_news 'RR' --print_news 'RR' --news 'RR'
+python main.py --nodisaster 'RR' --trust 'RR' --social_net 'RR' --government 'RR' --local_news 'RR' --print_news 'RR' --news 'RR'
+
+python main.py --disaster 'PU' --trust 'PU' --social_net 'PU' --government 'PU' --local_news 'PU' --print_news 'PU' --news 'PU'
+python main.py --nodisaster 'PU' --trust 'PU' --social_net 'PU' --government 'PU' --local_news 'PU' --print_news 'PU' --news 'PU'
+
+python main.py --disaster 'PS' --trust 'PS' --social_net 'PS' --government 'PS' --local_news 'PS' --print_news 'PS' --news 'PS'
+python main.py --nodisaster 'PS' --trust 'PS' --social_net 'PS' --government 'PS' --local_news 'PS' --print_news 'PS' --news 'PS'
+
+python main.py --nodisaster 'BR' --trust 'BR' --social_net 'BR' --government 'BR' --local_news 'BR' --print_news 'BR' --news 'BR'
+python main.py --disaster 'BR' --trust 'BR' --social_net 'BR' --government 'BR' --local_news 'BR' --print_news 'BR' --news 'BR'
+
+python main.py --disaster  'BS' --trust 'BS'  --social_net 'BS' --government 'BS' --local_news 'BS' --print_news 'BS' --news 'BS'
+python main.py --nodisaster  'BS' --trust 'BS'  --social_net 'BS' --government 'BS' --local_news 'BS' --print_news 'BS' --news 'BS'
