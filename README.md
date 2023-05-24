@@ -8,7 +8,9 @@ we aim to gain insights into the dynamics of information diffusion among individ
 
 ### Installation Instructions
 git clone https://github.com/adaezy/Smart_and_Connected_Communities
+
 cd Smart_and_Connected_Communities
+
 pip install -r requirements.txt
 
 
